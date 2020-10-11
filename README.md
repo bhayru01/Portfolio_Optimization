@@ -15,5 +15,5 @@ Daily Closing Prices of:
   4. Amazon
   
 ## Time Frame:
-From: 2012-01-03
-Till: 2016-12-30
+ From: 2012-01-03
+ Till: 2016-12-30
